@@ -96,17 +96,16 @@ export const skills = [
 export const experiences = [
     {
         title: "Desenvolvedora Front-end",
-        company_name: "Freelance",
+        company_name: "Transição de carreira",
         icon: frontend,
         iconBg: "#accbe1",
         date: "Abril 2022 - Até o momento",
         points: [
-            "Utilização de HTML, SASS, JavaScript e TypeScript para desenvolver projetos impactantes.",
-            "Habilidades em Bootstrap para criar interfaces amigáveis e visualmente atrativas.",
-            "Otimização do workflow com Gulp para garantir maior eficiência no desenvolvimento.",
-            "Experiência em React, incluindo o uso de Redux para gerenciamento de estado, permitindo a criação de aplicações front-end escaláveis e de fácil manutenção.",
-            "Domínio em Styled Components para criação de estilos encapsulados e reutilizáveis, proporcionando uma experiência de desenvolvimento mais eficiente e modular.",
-            "Gerenciamento eficiente do código-fonte utilizando Git e GitHub."
+            "Criação de interfaces atraentes e fáceis de usar com HTML, SASS e JavaScript, elevando a proficiência em oferecer experiências visuais e interativas excepcionais aos usuários.",
+            "Uso do React, TypeScript e Styled-components para criar soluções interativas e responsivas, tornando-me uma desenvolvedora mais versátil e capaz de atender a requisitos de diferentes projetos.",
+            "Controle de versão meticuloso e publicação de projetos com Git e GitHub, fortalecendo habilidades de gerenciamento de projetos.",
+            "Desenvolvimento de interfaces atraentes e funcionais com Bootstrap, permitindo traduzir conceitos de design em aplicações web esteticamente agradáveis, consolidando expertise em princípios de design UI/UX.",
+            "A automação do Gulp foi utilizada para otimizar fluxos de trabalho e economizar tempo, a fim de aumentar a eficiência geral e produtividade."
         ],
     },
     {
@@ -116,11 +115,11 @@ export const experiences = [
         iconBg: "#E6FFF8",
         date: "Agosto 2019 - Setembro 2023",
         points: [
-            "Aprimoramento das minhas habilidades de liderança e gestão de equipe ao assumir o comando da loja na ausência do gerente, promovendo uma dinâmica de equipe mais eficaz e coesa.",
-            "Demonstração de pró-atividade e excelência no atendimento ao cliente, resultando na oferta de soluções eficientes para questões dos clientes e alcançando um alto nível de satisfação e fidelização dos mesmos.",
-            "Melhora significativa do desempenho de vendas por meio de habilidades aprimoradas de comunicação e persuasão, impactando positivamente a receita mensal da loja.",
-            "Contribuição para um ambiente de trabalho harmonioso e produtivo através do trabalho em equipe e colaboração eficaz.",
-            "Condução de treinamentos para novos funcionários a fim de garantir que adquiram as habilidades e conhecimentos necessários para se destacarem em seus cargos, reforçando minha capacidade de transmitir conhecimento técnico e orientar os outros.",
+            "Registro de dados e indicadores de vendas e criação de planilhas, aprimorando habilidades no Excel e evoluindo a análise de dados.",
+            "Aprimoramento das habilidades de liderança e gestão de equipe ao assumir o comando da loja na ausência do gerente, promovendo uma dinâmica mais eficaz e coesa na equipe.",
+            "Implementação de uma abordagem personalizada ao cliente, refinando habilidades de argumentação e persuasão para alcançar melhores resultados.",
+            "Trabalho em equipe, resultando em um ambiente de trabalho harmonioso e produtivo, desenvolvimento pessoal e habilidades de liderança.",
+            "Treinamento de novos membros da equipe, aprimorando habilidades de orientação e comunicação.",
         ],
     },
     {
@@ -130,11 +129,10 @@ export const experiences = [
         iconBg: "#F4EEED",
         date: "Outubro 2018 - Junho 2019",
         points: [
-            "Implementação de um sistema de qualidade de alimentos na empresa, resultando em uma redução significativa de reclamações relacionadas à qualidade do produto.",
-            "Revisão e atualização do plano HACCP resultou em um padrão de qualidade de produto aprimorado e um consequente aumento na satisfação do cliente, e ainda ajudou a fortalecer ainda mais minha atenção aos detalhes e habilidades analíticas.",
-            "Edição de documentos de controle de qualidade resultou em um sistema de controle de qualidade mais preciso e organizado, facilitando para os órgãos reguladores monitorar informações vitais e aprimorando minhas habilidades de documentação e registro.",
-            "Supervisão da inspeção e recepção de matérias-primas, assegurando que apenas materiais de alta qualidade fossem usados no processo de produção, resultando em um produto final de qualidade superior.",
-            "Rigoroso controle das temperaturas de produção e armazenamento de produtos alimentícios, resultando em redução de custos devido a um melhor gerenciamento de matérias-primas e estoque."
+            "Implementação de um sistema de qualidade alimentar, reduzindo reclamações de clientes sobre a qualidade do produto e fortalecendo a implementação de soluções eficazes.",
+            "Edição de documentos de controle de qualidade, resultando em um sistema de controle de qualidade mais preciso e organizado e aprimorando minhas habilidades com Excel e Word.",
+            "Revisão e atualização do plano HACCP da empresa para aprimorar a qualidade do produto, consolidando a capacidade de análise e aprofundando conhecimentos sobre controle de qualidade.",
+            "Supervisão da inspeção de matéria-prima, garantindo o uso de ingredientes de alta qualidade e fortalecendo habilidades de liderança e responsabilidade."
         ],
     },
     {
@@ -144,11 +142,10 @@ export const experiences = [
         iconBg: "#E6FFF0",
         date: "Janeiro 2014 - Junho 2015",
         points: [
-            "Contagem e atualização de estoque em farmácias em todo o país, demonstrando a capacidade de trabalhar com precisão, organização e rapidez em diferentes ambientes de trabalho.",
-            "Colaboração com outros funcionários para aprimorar a eficiência na gestão de estoque, aprimorando minha habilidade de trabalhar de forma coesa em equipe.",
-            "Conquista de uma melhoria significativa na proficiência em língua inglesa, fortalecendo minhas habilidades de compreensão, fala, escrita e leitura. Essa proficiência permite uma comunicação eficaz com outras pessoas e proporciona acesso a uma riqueza de recursos técnicos em inglês.",
-            "Exposição a uma cultura diferente, rica em tradições, proporcionando enriquecimento pessoal e uma oportunidade para ampliar horizontes e perspectivas. Essa experiência de imersão cultural também alimentou a mente aberta e a criatividade.",
-            "Interação com pessoas de origens diversas e culturas, enfrentando situações inesperadas que contribuíram para o desenvolvimento de adaptabilidade e flexibilidade."
+            "Contagem e atualização de estoques de diferentes farmácias, demonstrando capacidades de precisão, organização e de trabalhar diversos ambientes.",
+            "Colaboração com colegas, aprimorando minhas habilidades de trabalho em equipe e contribuindo para um ambiente de trabalho harmonioso.",
+            "Melhoria significativa na língua inglesa, facilitando a comunicação eficaz e expandindo o acesso a recursos técnicos. A exposição a outras culturas enriqueceu meu desenvolvimento pessoal, fomentando a adaptabilidade e a criatividade.",
+            "Interação com indivíduos de diversas origens e em situações inesperadas, aprimorando minha adaptabilidade e flexibilidade para enfrentar desafios diversos.",
         ],
     },
 ]

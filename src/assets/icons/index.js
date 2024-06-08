@@ -25,6 +25,8 @@ import primeflix from './primeflix.svg'
 import harrypotter from './harrypotter.svg'
 import starwars from './starwars.svg'
 import clone from './clone.svg'
+import linkedin_white from './linkedin_white.svg'
+import github_white from './github_white.svg'
 
 export {
     css,
@@ -53,5 +55,7 @@ export {
     primeflix,
     harrypotter,
     starwars,
-    clone
+    clone,
+    linkedin_white,
+    github_white
 }

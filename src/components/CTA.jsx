@@ -1,4 +1,4 @@
-import { Link } from "react-router-dom";
+
 
 const CTA = () => {
   return (
@@ -7,9 +7,9 @@ const CTA = () => {
         Tem algum projeto em mente? <br className='sm:block hidden' />
         Vamos construir algo juntos!
       </p>
-      <Link to='/contact' className='btn'>
-        Contato
-      </Link>
+      <a href='https://www.linkedin.com/in/camila-cirne/' target='_blank' rel='noopener noreferrer' className='btn'>
+        Acesse o meu Linkedin
+      </a>
     </section>
   );
 };

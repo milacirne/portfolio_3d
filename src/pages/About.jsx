@@ -21,7 +21,7 @@ const About = () => {
 
       <div className='mt-5 flex flex-col gap-3 text-slate-500'>
         <p>
-        Como uma Desenvolvedora Front-End comprometida com a excelência, busco continuamente aprimorar minhas habilidades. Quero aplicar o meu conhecimento na criação de experiências digitais envolventes e responsivas, com um código limpo e eficiente. Estou entusiasmada em colaborar em projetos inovadores, onde possa contribuir com minha criatividade e paixão pelo desenvolvimento web.
+        Desenvolvedora Front-end em formação pela EBAC. Sou uma profissional resiliente, criativa e comunicativa, ansiosa para contribuir com projetos inovadores na indústria de tecnologia.
         </p>
       </div>
 
@@ -46,11 +46,7 @@ const About = () => {
 
       <div className='py-16'>
         <h3 className='subhead-text'>Experiências de trabalho</h3>
-        <div className='mt-5 flex flex-col gap-3 text-slate-500'>
-          <p>
-          Atualmente em transição de carreira, minha trajetória como Desenvolvedora Front-end tem sido enriquecida pela exploração de uma variedade de ferramentas essenciais. Essas tecnologias não apenas foram instrumentais para a execução dos meus projetos, mas também pavimentaram o caminho para um crescimento significativo na minha carreira:
-          </p>
-        </div>
+        
 
         <div className='mt-12 flex'>
           <VerticalTimeline>
@@ -63,7 +59,7 @@ const About = () => {
                     <img
                       src={experience.icon}
                       alt={experience.company_name}
-                      className='w-[60%] h-[60%] object-contain'
+                      className='w-[80%] h-[80%] object-contain'
                     />
                   </div>
                 }
