@@ -1,9 +1,7 @@
-import { lacasadelascarcasas, frontend, acafrao, masterstock } from "../assets/images"
+import { lacasadelascarcasas, frontend, acafrao, masterstock, codigocerto } from "../assets/images"
 import {
-    car,
     contact,
     css,
-    estate,
     git,
     github,
     html,
@@ -96,16 +94,29 @@ export const skills = [
 export const experiences = [
     {
         title: "Desenvolvedora Front-end",
+        company_name: "Código Certo",
+        icon: codigocerto,
+        iconBg: "#FAB1AB",
+        date: "Junho 2024 - Até o momento",
+        points: [
+            "Desenvolvimento de interfaces de usuário responsivas e intuitivas utilizando HTML, CSS e JavaScript, aprimorando a proficiência no desenvolvimento web.",
+            "Utilização de React.js e TypeScript para criar soluções interativas e responsivas, aumentando a versatilidade como desenvolvedor capaz de atender aos requisitos de diversos projetos.",
+            "Participação em reuniões de planejamento e discussão de requisitos, fortalecendo habilidades de comunicação e colaboração.",
+            "Aplicação do método Scrum para gestão ágil de projetos, aumentando a eficiência e a entrega pontual das tarefas.",
+            "Adoção do método Kanban para gestão visual de tarefas e fluxos de trabalho, aprimorando a organização e a produtividade da equipe.",
+            "Implementação de métodos eficazes para versionamento de código através do Git, facilitando o gerenciamento de código e melhorando a colaboração na equipe de desenvolvimento."
+        ],
+    },
+    {
+        title: "Desenvolvedora Front-end",
         company_name: "Transição de carreira",
         icon: frontend,
         iconBg: "#accbe1",
-        date: "Abril 2022 - Até o momento",
+        date: "Abril 2022 - Junho 2024",
         points: [
-            "Criação de interfaces atraentes e fáceis de usar com HTML, SASS e JavaScript, elevando a proficiência em oferecer experiências visuais e interativas excepcionais aos usuários.",
-            "Uso do React, TypeScript e Styled-components para criar soluções interativas e responsivas, tornando-me uma desenvolvedora mais versátil e capaz de atender a requisitos de diferentes projetos.",
-            "Controle de versão meticuloso e publicação de projetos com Git e GitHub, fortalecendo habilidades de gerenciamento de projetos.",
-            "Desenvolvimento de interfaces atraentes e funcionais com Bootstrap, permitindo traduzir conceitos de design em aplicações web esteticamente agradáveis, consolidando expertise em princípios de design UI/UX.",
-            "A automação do Gulp foi utilizada para otimizar fluxos de trabalho e economizar tempo, a fim de aumentar a eficiência geral e produtividade."
+            "Desenvolvimento de interfaces atraentes e amigáveis com HTML, SASS e JavaScript, aprimorando a proficiência na entrega de experiências visuais e interativas excepcionais aos usuários.",
+            "Utilização de React, TypeScript e Styled-components para criar soluções interativas e responsivas, demonstrando minha capacidade de traduzir protótipos de design do Figma em aplicações web funcionais e esteticamente agradáveis.",
+            "Controle de versão meticuloso e publicação de projetos com Git e GitHub, fortalecendo as habilidades de gerenciamento de projetos."
         ],
     },
     {
@@ -115,11 +126,11 @@ export const experiences = [
         iconBg: "#E6FFF8",
         date: "Agosto 2019 - Setembro 2023",
         points: [
-            "Registro de dados e indicadores de vendas e criação de planilhas, aprimorando habilidades no Excel e evoluindo a análise de dados.",
-            "Aprimoramento das habilidades de liderança e gestão de equipe ao assumir o comando da loja na ausência do gerente, promovendo uma dinâmica mais eficaz e coesa na equipe.",
-            "Implementação de uma abordagem personalizada ao cliente, refinando habilidades de argumentação e persuasão para alcançar melhores resultados.",
+            "Registro de dados e indicadores de vendas e criação de planilhas, aprimorando habilidades no Excel e evoluindo na análise de dados.",
+            "Aprimoramento de habilidades de liderança e gerenciamento de equipe ao supervisionar uma equipe de mais de 5 funcionários na ausência do gerente, promovendo uma dinâmica de equipe mais eficaz e coesa.",
+            "Implementação de uma abordagem personalizada ao cliente, aprimorando habilidades de argumentação e persuasão para alcançar resultados superiores.",
             "Trabalho em equipe, resultando em um ambiente de trabalho harmonioso e produtivo, desenvolvimento pessoal e habilidades de liderança.",
-            "Treinamento de novos membros da equipe, aprimorando habilidades de orientação e comunicação.",
+            "Designada pelo gerente para treinar de 3 a 5 novos contratados a cada trimestre, melhorando habilidades de mentoria e comunicação.",
         ],
     },
     {
@@ -129,10 +140,9 @@ export const experiences = [
         iconBg: "#F4EEED",
         date: "Outubro 2018 - Junho 2019",
         points: [
-            "Implementação de um sistema de qualidade alimentar, reduzindo reclamações de clientes sobre a qualidade do produto e fortalecendo a implementação de soluções eficazes.",
-            "Edição de documentos de controle de qualidade, resultando em um sistema de controle de qualidade mais preciso e organizado e aprimorando minhas habilidades com Excel e Word.",
-            "Revisão e atualização do plano HACCP da empresa para aprimorar a qualidade do produto, consolidando a capacidade de análise e aprofundando conhecimentos sobre controle de qualidade.",
-            "Supervisão da inspeção de matéria-prima, garantindo o uso de ingredientes de alta qualidade e fortalecendo habilidades de liderança e responsabilidade."
+            "Edição de documentos de controle de qualidade, resultando em um sistema de controle de qualidade mais preciso e organizado, além de aprimorar minhas habilidades em Excel e Word.",
+            "Revisão e atualização do plano HACCP da empresa para melhorar a qualidade do produto, consolidando habilidades analíticas e aprofundando o conhecimento em controle de qualidade.",
+            "Supervisão da inspeção de matérias-primas, garantindo o uso de ingredientes de alta qualidade e fortalecendo habilidades de liderança e responsabilidade."
         ],
     },
     {
@@ -142,10 +152,10 @@ export const experiences = [
         iconBg: "#E6FFF0",
         date: "Janeiro 2014 - Junho 2015",
         points: [
-            "Contagem e atualização de estoques de diferentes farmácias, demonstrando capacidades de precisão, organização e de trabalhar diversos ambientes.",
+            "Contagem e atualização de estoques para diferentes farmácias, demonstrando precisão, habilidades organizacionais e capacidade de trabalhar em ambientes diversos.",
             "Colaboração com colegas, aprimorando minhas habilidades de trabalho em equipe e contribuindo para um ambiente de trabalho harmonioso.",
-            "Melhoria significativa na língua inglesa, facilitando a comunicação eficaz e expandindo o acesso a recursos técnicos. A exposição a outras culturas enriqueceu meu desenvolvimento pessoal, fomentando a adaptabilidade e a criatividade.",
-            "Interação com indivíduos de diversas origens e em situações inesperadas, aprimorando minha adaptabilidade e flexibilidade para enfrentar desafios diversos.",
+            "Melhoria significativa no inglês, facilitando a comunicação eficaz e expandindo o acesso a recursos técnicos.",
+            "Interação com indivíduos de diferentes origens e em situações inesperadas, aprimorando adaptabilidade e flexibilidade para enfrentar desafios diversos.",
         ],
     },
 ]
